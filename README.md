@@ -1,11 +1,17 @@
 # Coca-cola-product-analysis-2022
 ### Table of content
 [Project Overview](project.overview)
+
 [Objectives](objectives)
+
 [Data-Description](data.description)
+
 [Analysis-Steps](analysis.steps)
+
 [Key-Insights](key.insights)
+
 [Conclusion](conclusion)
+
 ### Project Overview
 The Coca-Cola Product Analysis provides a detailed breakdown of product performance across different regions and categories for the year 2022. The goal of this project was to understand sales trends, identify top-performing products, and reveal opportunities for business growth.
 This analysis helps stakeholders quickly explore key metrics such as revenue, units sold, customer distribution, and product performance across time.
