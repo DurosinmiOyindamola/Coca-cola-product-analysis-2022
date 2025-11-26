@@ -1,4 +1,4 @@
-# Coca-cola-product-analysis-2022
+# Coca-cola-Product-Analysis-2022
 ### Table of content
 [Project Overview](project.overview)
 
@@ -59,10 +59,9 @@ Monthly Sales Trend
 - Regional performance maps/charts
 - Slicers for user-controlled filtering
 ### Key Insights
-Product A (or the top product) generated the highest revenue in 2022.
-The North / South / East region (update with your real insight) contributed the most to overall sales.
-Monthly sales peaked in Month X and dropped in Month Y, showing clear seasonal patterns.
-Certain product categories consistently outperformed others, signaling strong customer preference.
-High-selling products shared similar characteristics (pricing, category, demand patterns)
+- Northeast dominates with 0.92M units sold , contributing the largest share of total sales.
+- South region lags behind at 0.66M units, indicating untapped market potential.
+- In April, Coca-Cola earned $767K profit from 624 transactions.
+- Midwest & Northeast each account for 25% of transactions, while the South contributes only 15%.
 ### Conclusion
-This dashboard enables a clear view of Coca-Cola’s product performance for 2022, helping teams make informed decisions on marketing, distribution, and product planning. The insights derived from the dashboard support strategic initiatives aimed at increasing revenue and improving product positioning.
+This analysis enables a clear view of Coca-Cola’s product performance for 2022, helping teams make informed decisions on marketing, distribution, and product planning. The insights derived from the dashboard support strategic initiatives aimed at increasing revenue and improving product positioning.
