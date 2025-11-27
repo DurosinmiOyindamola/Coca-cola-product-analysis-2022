@@ -16,22 +16,27 @@
 The Coca-Cola Product Analysis provides a detailed breakdown of product performance across different regions and categories for the year 2022. The goal of this project was to understand sales trends, identify top-performing products, and reveal opportunities for business growth.
 This analysis helps stakeholders quickly explore key metrics such as revenue, units sold, customer distribution, and product performance across time.
 ### Objectives
-The main objectives of this analysis were to:
-- Understand overall product performance across categories and regions.
-- Identify the highest and lowest revenue-generating products.
-- Track monthly sales trends over the 2022 fiscal year.
-- Provide insights to support marketing and supply chain decisions.
-- Highlight patterns that can drive product strategy and improve sales.
+Coca-Cola, as a leading global beverage company, needed a detailed view of its sales performance to understand revenue trends, customer engagement, and product performance. The dashboard addresses the following:
+- Identify top-selling products and regions
+- Monitor revenue growth and unit sales over time
+- Detect patterns in customer engagement
+- Support management in making data-driven decisions
 ### Data Description
 The dataset used in this project includes:
-- Product Name
-- Product Category
+- Retailer
+- Retailer ID
 - Region
+- State
+- City
+- Days to Deliver
+- Delivery Company
+- Operating Profit
+- Operating Margin
 - Units Sold
 - Unit Price / Revenue
-- Customer Segment
-- Order Date / Month
-- Distributor / Store Information
+- Beverages Brand
+- Invoice Date
+- Product URL
 ### Tools Used
 - Power BI:Data modeling, DAX calculations,and dashboard design
 - Power Query:Transforming and preparing data
@@ -47,10 +52,10 @@ _ Obtained the Coca-Cola 2022 dataset containing product-level sales and perform
 3. Data Modeling
 - Created a clean data model with relationships between key tables
 - Built DAX measures for KPIs such as:
-Total Revenue
+Total Sales
 Total Units Sold
-Average Selling Price
-Monthly Sales Trend
+Sales MOM
+Total Unit sold MOM
 4. Visualization
 - Designed an interactive Power BI dashboard featuring:
 - KPI cards (Revenue, Units Sold, Top Product)
