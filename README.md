@@ -64,6 +64,8 @@ Total Unit sold MOM
 - Regional performance maps/charts
 - Slicers for user-controlled filtering
 ### Key Insights
+![Cocacola dashboard](https://github.com/user-attachments/assets/b307333b-9e57-4fc4-bd47-ba05a95b66cf)
+
 - Northeast dominates with 0.92M units sold , contributing the largest share of total sales.
 - South region lags behind at 0.66M units, indicating untapped market potential.
 - In April, Coca-Cola earned $767K profit from 624 transactions.
